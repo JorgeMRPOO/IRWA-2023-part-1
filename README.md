@@ -1,4 +1,4 @@
-# IRWA-2023-part-1
+# IRWA-2023
 
 This is a repository to upload projects of the subject Information Retrieval & Web Analytics.
 
