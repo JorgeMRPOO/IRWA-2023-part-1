@@ -9,6 +9,8 @@ The results of this can be seen in the notebook “Indexing_Part.ipynb”. In th
 
 For those queries, we have computed the rank of the documents with the TF-IDF algorithm, and then merged the results with the “Evaluation_gt.csv” file, so we can do the evaluation. For each of the queries, we get a dataframe with 10 relevant documents and 30 that are not relevant (10 not relevant for the query and 20 relevant for the other ones). Then we analysis with different evaluation metrics used in information retrieval and recommendation systems to measure the effectiveness of a model in retrieving relevant items from a list of recommendations.
 
+We split tasks in 3 Jupiter Notebooks to make it easier for users. 
+
 Authors: Abril Masgrau Turró, Jorge Martínez Rosa and Enric Riba Sáez.
 
 University Pompeu Fabra.
